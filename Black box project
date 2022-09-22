@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WHATS IN THE BLACK BOX</title>
+    <meta name="description" content="Inferance of whats in the box">
+    <meta name="author" content="Amir Phelmetto">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+   <h1>Claim</h1>
+   <p>The box has some type of bucket system or easy way to hold a lot of water and realse it randomly..</p>
+   <h1>Evidence</h1>
+   <p>To attempt to replicated the black boxes trials we started our trials with pouring 100 ml of water in the box 4 times just like we did with the original box and no water came out, but when we poured 200 ml or more water came out. After, when then poured 200 ml twice; first output was around half of 100ml and around ¾  of 200 for the second trial. Then right after we poured 400ml of water and we got an output of zero for the first 400ml and then for the second 400ml we poured in around 270 came out.</p>
+   <h1>Reasoning 1</h1>
+   <p>The trials we did produced the same randomization of outputs as the original box and replicated the further trials. The key concept that we proved to be correct was the use of a bucket system.
+</p>
+   <h1>Reasoning 2</h1>
+   <p>The box produced similar results when we first ran trials which tells us that we were doing something right.</p>
+   <h1>Reasoning 3</h1>
+   <p>If there wasn’t some sort of water bucket system in the box then it would be difficulty for the output to be zero after putting in a little bit of water.</p>
+   <table>
+ <tr>
+   <th>Trials</th>
+   <th>Amount of water input</th>
+   <th>Amount of water output</th>
+ </tr>
+ <tr>
+ <td>1)</td>
+   <td>100ml</td>
+   <td>0ml</td>
+ </tr>
+ <tr>
+   <td>2)</td>
+   <td>100ml</td>
+   <td>0ml</td>
+ </tr>
+  <tr>
+   <td>3)</td>
+   <td>100ml</td>
+   <td>0ml</td>
+     </tr>
+     <tr>
+   <td>4)</td>
+   <td>100ml</td>
+   <td>0ml</td>
+     </tr>
+     <tr>
+   <td>5)</td>
+   <td>200ml</td>
+   <td>93ml</td>
+     </tr>
+     <tr>
+   <td>6)</td>
+   <td>200ml</td>
+   <td>0ml</td>
+     </tr>
+      <tr>
+   <td>7)</td>
+   <td>400ml</td>
+   <td>226ml</td>
+     </tr>
+      <tr>
+   <td>8)</td>
+   <td>400ml</td>
+   <td>260ml</td>
+     </tr>
+      <tr>
+   <td>9)</td>
+   <td>100ml</td>
+   <td>0ml</td>
+     </tr>
+      <tr>
+   <td>10)</td>
+   <td>500ml</td>
+   <td>400ml</td>
+     </tr>
+     <!DOCTYPE html>
+<html>
+<th>
+<td>
+<head>
+<style>
+body {background-color: black;}
+h1   {color: white;}
+p    {color: white;}
+th   {color: white;}
+td   {color:white;}
+</style>
+</head>
+</th>
+</td>
+</body>
+</table>
+ </body>
+</html>
