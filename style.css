@@ -1,3 +1,4 @@
+
 #topNav {
   background: dimgray;
   box-shadow: 0px 1px 10px 10px lightgray;
@@ -21,4 +22,10 @@
 }
 #topNav > ul > li > a:hover {
   color: lime;
+ 
+}
+ body {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
